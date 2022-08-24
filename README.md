@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiamondTusks
-- 👀 I’m interested in Web3 and long walks.
-- 🌱 I’m currently learning Python, AWS and Plutus.
+- 👀 I’m interested in code, trustless systems and long walks.
+- 🌱 I’m currently learning Python, Solidity and AWS.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me... diamondtusks@gmail.com
 
