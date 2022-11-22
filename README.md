@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DiamondTusks<br>👀 I’m interested in code, trustless systems and long walks.<br>🌱 I’m currently learning Python, Solidity and AWS.<br>💞️ I’m looking to collaborate on any interesting project.<br>📫 How to reach me... diamondtusks@gmail.com
+👋 Hi, I’m @DiamondTusks, a Python Developer.<br>👀 I’m interested in code, trustless systems and long walks.<br>🌱 I’m currently learning Flask, Vyper and AWS.<br>💞️ I’m looking to collaborate on any interesting project.<br>📫 How to reach me... diamondtusks@gmail.com
 
 
 ## 🌐 Socials:
