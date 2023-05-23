@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DiamondTusks, a Python Developer.<br>👀 I’m interested in code, trustless systems, AI and long walks.<br>🌱 I’m currently working on Python and developing AI projects.<br>💞️ I’m looking to collaborate on interesting projects.<br>📫 How to reach me... diamondtusks@gmail.com
+👋 Hi, I’m @DiamondTusks, a Python Developer and Cybersecurity student.<br>👀 I’m interested in information security, code, trustless systems, AI and long walks.<br>🌱 I’m currently doing a Cybersecurity bootcamp.<br>💞️ I’m looking to collaborate on interesting projects.<br>📫 How to reach me... diamondtusks@gmail.com
 
 
 ## 🌐 Socials:
